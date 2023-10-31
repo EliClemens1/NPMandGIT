@@ -1,0 +1,17 @@
+{
+  "name": "npmandgit",
+  "version": "1.0.0",
+  "description": "learning npm and git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cat": "lite-server"
+
+  },
+  "author": "Eli Clemens",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "lite-server": "^2.6.1"
+  }
+}
